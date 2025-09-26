@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo 🕸️
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/giuu.png)](https://tryhackme.com/p/giuu)
 
