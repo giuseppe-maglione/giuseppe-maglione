@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/giuu.png" alt="Your Image Badge" /> (https://tryhackme.com/p/giuu)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/giuu.png)](https://tryhackme.com/p/giuu)
 
 <!--
 **giuseppe-maglione/giuseppe-maglione** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
