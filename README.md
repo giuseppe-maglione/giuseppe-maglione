@@ -1,4 +1,4 @@
-## Yo! 🕸️
+## yo! 🕸️
 
 [![TryHackMe](assets/thm_badge.svg)](https://tryhackme.com/p/giuu)
 
